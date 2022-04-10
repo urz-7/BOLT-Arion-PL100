@@ -13,9 +13,7 @@ for dump:
 # dd if=/dev/mtdblock2 of=/tmp/mtd2.bin
 # dd if=/dev/mtdblock3 of=/tmp/mtd3.bin
 # dd if=/dev/mtdblock4 of=/tmp/mtd4.bin
-
 or
-
 # cat /dev/mtdblock0 > /tmp/mtd0.bin
 # cat /dev/mtdblock1 > /tmp/mtd1.bin
 # cat /dev/mtdblock2 > /tmp/mtd2.bin
