@@ -6,6 +6,7 @@ mtd2: 00020000 00010000 "Config"
 mtd3: 00010000 00010000 "Factory"
 mtd4: 00fb0000 00010000 "Kernel"
 
+
 for dump:
 dd if=/dev/mtdblock0 of=/tmp/mtd0.bin
 dd if=/dev/mtdblock1 of=/tmp/mtd1.bin
