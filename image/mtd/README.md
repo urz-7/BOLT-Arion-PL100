@@ -20,3 +20,4 @@ cat /dev/mtdblock2 > /tmp/mtd2.bin
 cat /dev/mtdblock3 > /tmp/mtd3.bin
 cat /dev/mtdblock4 > /tmp/mtd4.bin
 
+
