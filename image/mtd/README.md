@@ -1,5 +1,4 @@
 cat /proc/mtd
-
 dev:    size   erasesize  name
 mtd0: 02000000 00010000 "ALL"
 mtd1: 00020000 00010000 "Bootloader"
@@ -19,5 +18,3 @@ cat /dev/mtdblock1 > /tmp/mtd1.bin
 cat /dev/mtdblock2 > /tmp/mtd2.bin
 cat /dev/mtdblock3 > /tmp/mtd3.bin
 cat /dev/mtdblock4 > /tmp/mtd4.bin
-
-
