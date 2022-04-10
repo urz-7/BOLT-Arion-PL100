@@ -1,11 +1,11 @@
 # cat /proc/mtd
 
-dev:    size   erasesize  name
-mtd0: 02000000 00010000 "ALL"
-mtd1: 00020000 00010000 "Bootloader"
-mtd2: 00020000 00010000 "Config"
-mtd3: 00010000 00010000 "Factory"
-mtd4: 00fb0000 00010000 "Kernel"
+# dev:    size   erasesize  name
+# mtd0: 02000000 00010000 "ALL"
+# mtd1: 00020000 00010000 "Bootloader"
+# mtd2: 00020000 00010000 "Config"
+# mtd3: 00010000 00010000 "Factory"
+# mtd4: 00fb0000 00010000 "Kernel"
 
 for dump:
 # dd if=/dev/mtdblock0 of=/tmp/mtd0.bin
