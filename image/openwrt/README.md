@@ -1,6 +1,6 @@
 # Flash via telnet
 windows side:  
-busybox nc -l -p <port> < openwrt.bin
+busybox nc -l -p \<port> < openwrt.bin  
                                      
 router side:                                       
 cd /tmp              
