@@ -1,5 +1,6 @@
 # Tutorial Unbrick PL100
 Connect SOP16 clip to chip MX25L25635F  
+![image](https://github.com/urz-7/BOLT-Arion-PL100/blob/main/unbrick/SOP16_to_SOP8.jpg)
 Pin 1 always mark with little dot  
 connect to CH341A Programmer (3.3V)  
 run CH341A Special Edition  
