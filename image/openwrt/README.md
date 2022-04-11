@@ -3,7 +3,7 @@ Enable telnet on router:
 
 Method 1  
 -Backup config  
--Upload mod telnet config  
+-Upload config PL100_settings_telnet.dat  
 
 Method 2  
 -Connect USB to TTL. baudrate 57600  
