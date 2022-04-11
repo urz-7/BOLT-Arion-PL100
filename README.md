@@ -3,7 +3,7 @@ LTE TDD: Band 40
 Architecture: MIPS  
 Bootloader: U-Boot
 CPU: Mediatek MT7621  
-> Dual-core MIPS1004Kc @ 880 MHz (2 VPEs per core)  
+> Dual-core MIPS1004Kc @ 880 MHz (2 VPEs per core = 4 threads)  
 > 32KB L1 I-Cache and 32KB L2 D-Cache  
 > 256KB unified L2 Cache  
 
