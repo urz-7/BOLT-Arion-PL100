@@ -1,3 +1,4 @@
+# cat /proc/mtd  
 dev:    size   erasesize  name  
 mtd0: 00080000 00020000 "u-boot"  
 mtd1: 00080000 00020000 "env"  
@@ -15,4 +16,7 @@ mtd12: 00500000 00020000 "tk"
 mtd13: 00500000 00020000 "tk2"  
 mtd14: 00080000 00020000 "customize"  
 mtd15: 00280000 00020000 "log"  
-mtd16: 02000000 00020000 "update"
+mtd16: 02000000 00020000 "update"  
+
+# Dump Partition  
+coming soon
