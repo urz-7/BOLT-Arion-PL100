@@ -6,6 +6,7 @@ CPU: Mediatek MT7621AT
 > Dual-core MIPS1004Kc @ 880 MHz (2 VPEs per core = 4 threads)  
 > 32KB L1 I-Cache and 32KB L2 D-Cache  
 > 256KB unified L2 Cache  
+> TFBGA378  
 
 Flash size: 32 MiB MXIC MX25L25635FMI-10G NOR SPI SOP16  
 RAM: 128 MiB NANYA NT5CC64M16GP-D1 DDR3 MEMORY  
