@@ -12,7 +12,7 @@ Method 2
 
 Open putty. telnet 192.168.1.1  
 
-Rename penwrt-21.02.2-ramips-mt7621-bolt_arion-squashfs-sysupgrade.bin to openwrt.bin  
+Rename openwrt-21.02.2-ramips-mt7621-bolt_arion-squashfs-sysupgrade.bin to openwrt.bin  
 
 windows cmd:  
 > busybox nc -l -p \<port> < openwrt.bin  
