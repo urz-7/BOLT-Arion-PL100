@@ -10,6 +10,8 @@ Method 2
 -type:  
 > busybox telnetd -l /bin/sh  
 
+or  
+> nvram_set 2860 TELNETD_ENABLE 1
 Open putty. telnet 192.168.1.1  
 
 Rename openwrt-21.02.2-ramips-mt7621-bolt_arion-squashfs-sysupgrade.bin to openwrt.bin  
