@@ -10,9 +10,9 @@ Method 2
 -type:  
 > busybox telnetd -l /bin/sh  
 
-
 Open putty. telnet 192.168.1.1  
-Rename firmware file to openwrt.bin  
+
+Rename penwrt-21.02.2-ramips-mt7621-bolt_arion-squashfs-sysupgrade.bin to openwrt.bin  
 
 windows cmd:  
 > busybox nc -l -p \<port> < openwrt.bin  
