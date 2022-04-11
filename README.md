@@ -1,4 +1,5 @@
 # BOLT Arion PL100
+
 LTE TDD: Band 40   
 Architecture: MIPS  
 Bootloader: U-Boot
